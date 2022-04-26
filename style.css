@@ -12,7 +12,7 @@
   content: attr(data-hover);
   visibility: hidden;
   opacity: 0;
-  width: 50px;
+  width: 60px;
   background-color: blue;
   color: #fff;
   text-align: center;
