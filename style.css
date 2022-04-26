@@ -20,6 +20,8 @@
   border-radius: 100px;
   padding: 5px 0;
   transition: opacity 1s ease-in-out;
+  padding-right: 70px;
+  padding-left: 70px
 
   position: absolute;
   //z-index: -20;
