@@ -3,8 +3,6 @@
   position: relative;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  //text-decoration: underline;
-  //border-bottom: 2px dotted black;
 }
 
 .hovertext:before {
