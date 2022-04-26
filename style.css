@@ -1,4 +1,3 @@
-document.addEventListener("touchstart", function() {}, true);
 
 .hovertext {
   position: relative;
